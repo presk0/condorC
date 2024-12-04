@@ -1,0 +1,7 @@
+README.md
+condorcet.c
+setup.py
+Condorcet.egg-info/PKG-INFO
+Condorcet.egg-info/SOURCES.txt
+Condorcet.egg-info/dependency_links.txt
+Condorcet.egg-info/top_level.txt
